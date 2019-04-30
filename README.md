@@ -1,10 +1,10 @@
 # linux-command
 
-  ##  [解释chmod 权限777 -rwxrwxrwx(https://blog.csdn.net/yihui8/article/details/6975786 )]
+  ##  [解释chmod 权限777 -rwxrwxrwx](https://blog.csdn.net/yihui8/article/details/6975786)
   
   ---
 
-  含义 r w x     Read Write eXecute    4    2    1 
+  含义 **r w x**     **Read Write eXecute**    **4    2    1** 
   ---
                                                           
   -rw-r--r--  1 bu users  2254 2006-05-20 13:47 tt.htm
