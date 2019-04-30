@@ -1,6 +1,6 @@
 # linux-command
 
-  ## https://blog.csdn.net/yihui8/article/details/6975786  //  解释chmod 权限777 -rwxrwxrwx
+  ##  [解释chmod 权限777 -rwxrwxrwx(https://blog.csdn.net/yihui8/article/details/6975786 )]
   
   ---
 
